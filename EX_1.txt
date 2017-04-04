@@ -1,0 +1,5 @@
+1. git clone to folder. (manualy ---> cd ~/###/---)
+2. git add "file name" or *   ----> add file or all of the files
+4. git commit -m "Hi my name is Inon" ---> add commend.
+5. git log -----> connect my user on githab
+6. git push -u origin master ------> add to githab project (must add ".git" in the end!!!)
